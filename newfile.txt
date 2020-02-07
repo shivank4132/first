@@ -1,0 +1,4 @@
+helllooo 
+this is ignore file.
+
+i'm being changed in different way
